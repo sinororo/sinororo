@@ -2,7 +2,7 @@
 
 I am Sigh and here are few things about me.
 - 🌐 I am currently a local chapter lead in Omdena. A platform that builds impactful AI solutions alongside global collaborators.
-- 🏫 I am a graduating Statistics major in the University of the Philippines Diliman
+- 🏫 I am a graduating statistics major in the University of the Philippines Diliman
 - 📊 I am a Kaggle Notebooks and Discussion Expert. Kaggle is a community platform for data scientists and machine learning engineers to collaborate and compete.
 - 🌱 I’m currently learning fastai. I would like to make neural nets uncool again as well.
 
