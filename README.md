@@ -1,9 +1,12 @@
-### Hi there 😎
+### Hi there :bowtie:
 
 I am Sigh and here are few things about me.
-- 🌐 A [local chapter lead](https://omdena.com/local-chapters/laguna-philippines-chapter/) in [Omdena](https://omdena.com/). A platform that builds impactful AI solutions alongside global collaborators.
-- 📊 A [Kaggle Notebooks and Discussion Expert](https://www.kaggle.com/sinoro12). [Kaggle](kaggle.com) is a community platform for data scientists and machine learning engineers to collaborate and compete.
-- 🤔 Want to know me more? Connect with me in [Linkedin](https://www.linkedin.com/in/signour-sigmeund-melo-63aa791aa/)!
+
+- :bank: Currently working at Chase as a Quant Analytics Analyst.
+- 🌏 Previously a local chapter lead in [Omdena](https://omdena.com/). A global platform that builds impactful AI solutions alongside global collaborators.
+- 📈 A [Kaggle Notebooks and Discussion Expert](https://www.kaggle.com/sinoro12). [Kaggle](kaggle.com) is a community platform for data scientists and machine learning engineers to collaborate and compete.
+- :mortar_board: Graduated as a statistics major in University of the Philippines Diliman.
+- 💁 Want to know me more? Connect with me in [Linkedin](https://www.linkedin.com/in/signour-sigmeund-melo-63aa791aa/)!
 
 
 
