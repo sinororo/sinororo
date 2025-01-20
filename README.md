@@ -2,9 +2,7 @@
 
 I am Sigh and here are few things about me.
 - 🌐 A [local chapter lead](https://omdena.com/local-chapters/laguna-philippines-chapter/) in [Omdena](https://omdena.com/). A platform that builds impactful AI solutions alongside global collaborators.
-- 🏫 A graduating [statistics major](http://stat.upd.edu.ph/) in the [University of the Philippines Diliman](https://upd.edu.ph/)
 - 📊 A [Kaggle Notebooks and Discussion Expert](https://www.kaggle.com/sinoro12). [Kaggle](kaggle.com) is a community platform for data scientists and machine learning engineers to collaborate and compete.
-- 🌱 Currently learning [fastai](https://www.fast.ai/). It is my personal mission to make neural nets boring for people.
 - 🤔 Want to know me more? Connect with me in [Linkedin](https://www.linkedin.com/in/signour-sigmeund-melo-63aa791aa/)!
 
 
