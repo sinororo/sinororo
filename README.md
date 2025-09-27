@@ -1,9 +1,8 @@
-### Hi there :bowtie:
-
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/ea9d33ab-4c34-4305-be18-dc128d78b71c/thumbnail" >
 </p>
 
+### Hi there :bowtie:
 
 I am Sigh and here are few things about me.
 
